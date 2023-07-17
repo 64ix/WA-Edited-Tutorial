@@ -3359,7 +3359,7 @@
         const X = [];
         const Q = [
             {
-              title: "Bienvenue",
+              title: "Bienvenue 👋",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step1-onboarding.mp4",
               videoPoster:
@@ -3381,7 +3381,7 @@
                 "",
             },
             {
-              title: "Discutez avec quelqu’un",
+              title: "Discutez avec quelqu’un 💬",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step2-onboarding.mp4",
               videoPoster:
@@ -3402,7 +3402,7 @@
               shortTiltle: "",
             },
             {
-              title: "Participez à une conférence",
+              title: "Participez à une conférence 🎤",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step3-onboarding-v2.mp4",
               videoPoster:
@@ -3428,7 +3428,7 @@
             shortTiltle: "",
             },
             {
-              title: "Interact with dynamic zones 🤸‍♀️",
+              title: "Interagissez avec votre environnement 🏌",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step4-onboarding.mp4",
               videoPoster:
@@ -3444,7 +3444,7 @@
             shortTiltle: "",
             },
             {
-              title: "Ne pas déranger",
+              title: "Ne pas déranger 🚫",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step5-onboarding.mp4",
               videoPoster:
