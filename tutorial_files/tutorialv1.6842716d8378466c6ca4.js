@@ -3359,35 +3359,73 @@
         const X = [];
         const Q = [
             {
-              title: "Welcome 👋",
+              title: "Bienvenue",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step1-onboarding.mp4",
               videoPoster:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step6-onboarding.png",
               description:
-                "\n            <p>Move your avatar (Woka) with your arrow keys, or by right clicking somewhere in the map. If your WOKA does not move, focus on the map by clicking anywhere with your mouse.</p>\n            <p>Walk up to another WOKA to create a bubble zone. Your cam & mic will automatically be switched on if you did allow it on your parameters (4 WOKAs max in a bubble zone).</p>\n            <p>\n                <ul>\n                    <li>Change the screens positioning,</li>\n                    <li>Ask someone in your bubble zone to follow you,</li>\n                    <li>Lock your bubble so that nobody can enter your conversation,</li>\n                    <li>Share your screen. Click on the sharing screen to make it bigger or smaller,</li>\n                    <li>Deactivate or activate your cam & mic.</li>\n                </ul>\n            </p>\n        ",
+                `\n            
+                <p>Déplacez votre avatar à l'aide des touches fléchées ou en faisant un clic droit à un endroit de la carte. Si votre avatar ne se déplace pas, cliquez n'importe où avec votre souris.</p>\n            
+                <p>Approchez-vous d'un autre joueur pour créer une bulle qui vous permettra de converser avec lui. Votre caméra et votre micro seront automatiquement activés si vous l'avez autorisé dans vos paramètres (4 joueurs maximum dans une bulle).</p>\n
+                            <p>\n                
+                              <ul>\n                    
+                                <li>Désactivez votre micro ou votre caméra à tout moment,</li>\n
+                                <li>Partagez votre écran. Cliquez sur l'écran de partage pour l'agrandir ou le réduire,</li>\n                    
+                                <li>Verrouillez votre bulle pour ne laisser personne entrer dans la conversation,</li>\n                             
+                              </ul>\n            
+                            </p>
+                \n
+              `,
               shortTiltle:
-                "Welcome to WorkAdventure adventurer! I'm Viv Legging and i will be showing you how things work down here!",
+                "",
             },
             {
-              title: "Chat with someone 💬",
+              title: "Discutez avec quelqu’un",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step2-onboarding.mp4",
               videoPoster:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step5-onboarding.png",
               description:
-                "\n            <p>Reduce the distance with your teams with a complete messaging service:</p>\n            <p>\n                <ul>\n                    <li>Get access to the list of users connected in your map, or in another map interconnected</li>\n                    <li>Enter a bubble zone to chat with someone, or click on the teleport button to get to them easily</li>\n                    <li>Create forum or team groups to better collaborate</li>\n                    <li>Use the live zone chat to communicate with everyone in a conference room</li>\n                    <li>Exchange documents, folders, pictures, ...</li>\n                </ul>\n            </p>\n            <p>You can see your timeline chat at anytime!</p>\n        ",
+              `\n            
+                <p>Partez à la rencontre des autres joueurs directement depuis la messagerie en direct :</p>\n            
+                            <p>\n                
+                              <ul>\n                    
+                                <li>Accédez à la liste des utilisateurs connectés dans votre monde,</li>\n
+                                <li>Cliquez sur le bouton de téléportation pour rejoindre un joueur facilement,</li>\n                    
+                                <li>Rejoignez directement une conférence en cours,</li>\n 
+                                <li>Échangez des fichiers avec les autres joueurs (documents, images),</li>\n                              
+                              </ul>\n            
+                            </p>
+                \n
+              `,
               shortTiltle: "",
             },
             {
-              title: "Attend a conference 📹",
+              title: "Participez à une conférence",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step3-onboarding-v2.mp4",
               videoPoster:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step4-onboarding.png",
               description:
-                "\n            <p>Enter a conference room to connect with unlimited number of WOKAs.</p>\n            <p>Touch the red button to close the conference.</p>\n            <p>Touch the blue burger button to extend or reduce the conference screen.</p>\n            <p>\n                <ul>\n                    <li>Deactivate or activate your cam & mic,</li>\n                    <li>Share your screen,</li>\n                    <li>Open the chat or the survey system,</li>\n                    <li>Raise your hand (speakers will be notified) or send emojis,</li>\n                    <li>Get a mosaic view of all participants,</li>\n                    <li>Change your settings,</li>\n                    <li>Leave the conference.</li>\n                </ul>\n            </p>\n        ",
-              shortTiltle: "",
+              `\n            
+              <p>Entrez dans une salle de conférence pour vous connecter avec les autres joueurs : </p>\n            
+                          <p>\n                
+                            <ul>\n                    
+                              <li>Cliquez sur la croix rouge pour fermer la conférence.</li>\n
+                              <li>Cliquez sur les trois traits bleus pour agrandir ou réduire l'écran de la conférence.</li>\n                    
+                              <li>Désactivez ou activez votre caméra et votre micro</li>\n 
+                              <li>Partagez votre écran</li>\n
+                              <li>Ouvrez le chat ou le système de sondage</li>\n
+                              <li>Levez la main (les orateurs seront avertis) ou envoyez des émojis</li>\n
+                              <li>Optez pour une vue en mosaïque de tous les participants</li>\n
+                              <li>Modifiez vos paramètre</li>\n
+                              <li>Quittez la conférence</li>\n                              
+                            </ul>\n            
+                          </p>
+              \n
+            `,
+            shortTiltle: "",
             },
             {
               title: "Interact with dynamic zones 🤸‍♀️",
@@ -3396,39 +3434,26 @@
               videoPoster:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step3-onboarding.png",
               description:
-                "\n            <p>Interact with dynamic zones by walking into them. A window will open at the right of your screen with an integration: a work tool for team collaboration, a website page, a survey doc, a Youtube video...</p>\n            </p>Touch the red button to close the interactive window.</p>\n            </p>Touch the blue button to extend or reduce the interactive window.</p>\n        ",
-              shortTiltle: "",
+              `\n            
+              <p>Vous pouvez interagir avec des objets en vous en approchant. Une fenêtre s'ouvrira à droite de votre écran : cela peut être une page web, une vidéo Youtube... </p>\n            
+              \n  <p>Cliquez sur la croix rouge pour fermer la fenêtre interactive.
+              Cliquez sur les trois traits bleus pour agrandir ou réduire la fenêtre interactive.
+              </p>
+              \n
+            `,
+            shortTiltle: "",
             },
             {
-              title: "Go private 🔒",
+              title: "Ne pas déranger",
               videoUrl:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step5-onboarding.mp4",
               videoPoster:
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step2-onboarding.png",
               description:
-                "\n            <p>Enter silent zones when you need not to be disturbed. Nobody will be able to connect with you and your cam & mic will automatically be switched off.</p>\n            <p>For more privacy, custom your away mode settings at any time to decide whether your cam and/or mic are automatically switched off when you're not on the WorkAdventure's tab.</p>\n        ",
-              shortTiltle: "",
-            },
-            {
-              title: "Enjoy 🚀",
-              videoUrl:
-                "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step6-onboarding.mp4",
-              videoPoster:
-                "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step1-onboarding.png",
-              description:
-                "\n                    <p>That's it for today Adventurer. You are now ready to start your journey with us!</p>\n                    <p>If you need any kind of support, please email us: hello@workadventu.re</p>\n                    </p>Or talk to our team directly here in the village, they'll be more than happy to help you out!</p>\n                ",
-              shortTiltle: "",
-            },
-            {
-                title: "Enjoy 🚀",
-                videoUrl:
-                  "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step6-onboarding.mp4",
-                videoPoster:
-                  "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step1-onboarding.png",
-                description:
-                  "\n                    <p>That's it for today Adventurer. You are now ready to start your journey with us!</p>\n                    <p>If you need any kind of support, please email us: hello@workadventu.re</p>\n                    </p>Or talk to our team directly here in the village, they'll be more than happy to help you out!</p>\n                ",
+                "\n            <p>Entrez dans des zones silencieuses lorsque vous ne voulez pas être dérangé. Personne ne pourra se connecter avec vous et votre caméra et votre micro seront automatiquement désactivés.</p>\n            <p>Vous pouvez également utiliser le bouton \"Ne pas déranger\" dans la messagerie en direct.</p>\n            ",
                 shortTiltle: "",
-              },
+            },
+            
           ],
           tt = (function (t, e = n) {
             let r;
