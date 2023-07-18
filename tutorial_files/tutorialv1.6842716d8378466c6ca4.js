@@ -3366,8 +3366,8 @@
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step6-onboarding.png",
               description:
                 `\n            
-                <p>Déplacez votre avatar à l'aide des touches fléchées ou en faisant un clic droit à un endroit de la carte. Si votre avatar ne se déplace pas, cliquez n'importe où avec votre souris.</p>\n            
-                <p>Approchez-vous d'un autre joueur pour créer une bulle qui vous permettra de converser avec lui. Votre caméra et votre micro seront automatiquement activés si vous l'avez autorisé dans vos paramètres (4 joueurs maximum dans une bulle).</p>\n
+                <p>Déplacez votre avatar à l'aide des flèches de votre clavier ou en faisant un clic droit à un endroit de la carte. Sur mobile, déplacez simplement votre doigt sur l’écran.                 </p>\n            
+                <p>Approchez-vous d'un autre joueur pour créer une bulle qui vous permettra de converser avec lui. Votre caméra et votre micro seront automatiquement activés si vous l'avez autorisé dans vos paramètres (4 joueurs maximum dans une bulle). </p>\n
                             <p>\n                
                               <ul>\n                    
                                 <li>Désactivez votre micro ou votre caméra à tout moment,</li>\n
@@ -3409,7 +3409,7 @@
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step4-onboarding.png",
               description:
               `\n            
-              <p>Entrez dans une salle de conférence pour vous connecter avec les autres joueurs : </p>\n            
+              <p>Entrez dans une salle de conférence pour vous connecter avec les autres joueurs. Une fois connecté, vous pouvez :  </p>\n            
                           <p>\n                
                             <ul>\n                    
                               <li>Cliquez sur la croix rouge pour fermer la conférence.</li>\n
@@ -3417,10 +3417,7 @@
                               <li>Désactivez ou activez votre caméra et votre micro</li>\n 
                               <li>Partagez votre écran</li>\n
                               <li>Ouvrez le chat ou le système de sondage</li>\n
-                              <li>Levez la main (les orateurs seront avertis) ou envoyez des émojis</li>\n
-                              <li>Optez pour une vue en mosaïque de tous les participants</li>\n
-                              <li>Modifiez vos paramètre</li>\n
-                              <li>Quittez la conférence</li>\n                              
+                              <li>Levez la main (les orateurs seront avertis) ou envoyez des émojis</li>\n                      
                             </ul>\n            
                           </p>
               \n
@@ -3436,8 +3433,11 @@
               description:
               `\n            
               <p>Vous pouvez interagir avec des objets en vous en approchant. Une fenêtre s'ouvrira à droite de votre écran : cela peut être une page web, une vidéo Youtube... </p>\n            
-              \n  <p>Cliquez sur la croix rouge pour fermer la fenêtre interactive.
-              Cliquez sur les trois traits bleus pour agrandir ou réduire la fenêtre interactive.
+              \n
+              <ul>\n    
+              <li>Cliquez sur la croix rouge pour fermer la fenêtre interactive.</li>\n 
+              <li>Cliquez sur les trois traits bleus pour agrandir ou réduire la fenêtre interactive.</li>\n 
+              </ul>\n 
               </p>
               \n
             `,
