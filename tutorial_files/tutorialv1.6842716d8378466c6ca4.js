@@ -3630,7 +3630,7 @@
             c() {
               (e = w("button")),
                 (e.innerHTML =
-                  'Next\n            <span class="tw-px-4 tw-absolute tw-right-4">&gt;</span>'),
+                  'Suivant\n            <span class="tw-px-4 tw-absolute tw-right-4">&gt;</span>'),
                 x(
                   e,
                   "class",
@@ -3698,12 +3698,12 @@
                 (l = w("button")),
                 (s = w("span")),
                 (s.textContent = "<"),
-                (f = E(" Previous")),
+                (f = E(" Précédent")),
                 (y = j()),
                 D.c(),
                 (h = j()),
                 (S = w("button")),
-                (S.textContent = "Skip all"),
+                (S.textContent = "Passer"),
                 x(n, "class", "progress-bar"),
                 x(e, "class", "body"),
                 x(
