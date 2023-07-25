@@ -3366,15 +3366,8 @@
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step6-onboarding.png",
               description:
                 `\n            
-                <p>Déplacez votre avatar à l'aide des flèches de votre clavier ou en faisant un clic droit à un endroit de la carte. Sur mobile, déplacez simplement votre doigt sur l’écran.                 </p>\n            
-                <p>Approchez-vous d'un autre joueur pour créer une bulle qui vous permettra de converser avec lui. Votre caméra et votre micro seront automatiquement activés si vous l'avez autorisé dans vos paramètres (4 joueurs maximum dans une bulle). </p>\n
-                            <p>\n                
-                              <ul>\n                    
-                                <li>Désactivez votre micro ou votre caméra à tout moment,</li>\n
-                                <li>Partagez votre écran. Cliquez sur l'écran de partage pour l'agrandir ou le réduire,</li>\n                    
-                                <li>Verrouillez votre bulle pour ne laisser personne entrer dans la conversation,</li>\n                             
-                              </ul>\n            
-                            </p>
+                <p>Déplacez votre avatar à l’aide des flèches de votre clavier ou en faisant un clic droit à un endroit de la carte. Sur mobile, déplacez simplement votre doigt sur l’écran.</p>\n            
+                <p>Au besoin, appuyez sur la touche Espace pour interagir avec les objets. Sur mobile, appuyez simplement sur l’encadré qui s’affichera.</p>\n
                 \n
               `,
               shortTiltle:
@@ -3409,14 +3402,11 @@
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step4-onboarding.png",
               description:
               `\n            
-              <p>Entrez dans une salle de conférence pour vous connecter avec les autres joueurs. Une fois connecté, vous pouvez :  </p>\n            
+              <p>Entrez dans une salle de conférence pour vous connecter avec les autres joueurs.</p>\n            
                           <p>\n                
                             <ul>\n                    
                               <li>Cliquez sur la croix rouge pour fermer la conférence.</li>\n
-                              <li>Cliquez sur les trois traits bleus pour agrandir ou réduire l'écran de la conférence.</li>\n                    
-                              <li>Désactivez ou activez votre caméra et votre micro</li>\n 
-                              <li>Partagez votre écran</li>\n
-                              <li>Ouvrez le chat ou le système de sondage</li>\n
+                              <li>Ouvrez le chat ou le système de sondage                              </li>\n 
                               <li>Levez la main (les orateurs seront avertis) ou envoyez des émojis</li>\n                      
                             </ul>\n            
                           </p>
@@ -3432,7 +3422,7 @@
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step3-onboarding.png",
               description:
               `\n            
-              <p>Vous pouvez interagir avec des objets en vous en approchant. Une fenêtre s'ouvrira à droite de votre écran : cela peut être une page web, une vidéo Youtube... </p>\n            
+              <p>Vous pouvez interagir avec des objets en vous en approchant. Une fenêtre s’ouvrira à droite de votre écran : cela peut être une page web ou une vidéo Youtube.</p>\n
               \n
               <ul>\n    
               <li>Cliquez sur la croix rouge pour fermer la fenêtre interactive.</li>\n 
