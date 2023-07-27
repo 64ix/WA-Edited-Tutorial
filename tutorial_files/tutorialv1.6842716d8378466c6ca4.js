@@ -3423,7 +3423,7 @@
                 "https://backup-workadventure-db-prod.s3.eu-west-1.amazonaws.com/upload/tuto_video/step3-onboarding.png",
               description:
               `\n            
-              <p>Vous pouvez interagir avec des objets en vous en approchant. Une fenêtre s’ouvrira à droite de votre écran : cela peut être une page web ou une vidéo Youtube.</p>\n
+              <p>Vous pouvez interagir avec des objets en vous en approchant. Une fenêtre s’ouvrira à droite de votre écran : cela peut être une page web ou une vidéo YouTube.</p>\n
               \n
               <ul>\n    
               <li>Cliquez sur la croix rouge pour fermer la fenêtre interactive.</li>\n 
