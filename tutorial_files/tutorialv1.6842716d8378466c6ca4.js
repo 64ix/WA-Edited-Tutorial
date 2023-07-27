@@ -3367,7 +3367,7 @@
               description:
                 `\n            
                 <p>Déplacez votre avatar à l’aide des flèches de votre clavier ou en faisant un clic droit à un endroit de la carte. Sur mobile, déplacez simplement votre doigt sur l’écran.</p>\n            
-                <p>Au besoin, appuyez sur la touche Espace pour interagir avec les objets. Sur mobile, appuyez simplement sur l’encadré qui s’affichera.</p>\n
+                <p>Au besoin, appuyez sur la touche Espace pour interagir avec les objets et/ou personnages. Sur mobile, appuyez simplement sur l’encadré qui s’affichera.</p>\n
                 \n
               `,
               shortTiltle:
@@ -3384,10 +3384,10 @@
                 <p>Partez à la rencontre des autres joueurs directement depuis la messagerie en direct :</p>\n            
                             <p>\n                
                               <ul>\n                    
-                                <li>Accédez à la liste des utilisateurs connectés dans votre monde,</li>\n
-                                <li>Cliquez sur le bouton de téléportation pour rejoindre un joueur facilement,</li>\n                    
-                                <li>Rejoignez directement une conférence en cours,</li>\n 
-                                <li>Échangez des fichiers avec les autres joueurs (documents, images),</li>\n                              
+                                <li>Accédez à la liste des utilisateurs connectés dans votre monde.</li>\n
+                                <li>Cliquez sur le bouton de téléportation pour rejoindre un joueur facilement.</li>\n                    
+                                <li>Rejoignez directement une conférence en cours.</li>\n 
+                                <li>Échangez des fichiers avec les autres joueurs (documents, images).</li>\n                              
                               </ul>\n            
                             </p>
                 \n
@@ -3404,10 +3404,11 @@
               `\n            
               <p>Entrez dans une salle de conférence pour vous connecter avec les autres joueurs.</p>\n            
                           <p>\n                
-                            <ul>\n                    
+                            <ul>\n
+                              <li>Appuyez sur la touche espace pour accéder à la conférence.</li>\n                    
                               <li>Cliquez sur la croix rouge pour fermer la conférence.</li>\n
-                              <li>Ouvrez le chat ou le système de sondage                              </li>\n 
-                              <li>Levez la main (les orateurs seront avertis) ou envoyez des émojis</li>\n                      
+                              <li>Ouvrez le chat ou le système de sondage.</li>\n
+                              <li>Levez la main (les orateurs seront avertis) ou envoyez des émojis.</li>\n
                             </ul>\n            
                           </p>
               \n
